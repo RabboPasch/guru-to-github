@@ -1,0 +1,19 @@
+name: Sync Guru to GitHub
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 3 * * *"  # daily at 3 AM UTC
+
+jobs:
+  sync-guru:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: parkerbxyz/guru-to-github@v2
+        with:
+          guru-collection-ids: 'va9hu,xfd66t,yz6du7'
+          collection-directory-path: 'collections'     # customize as needed
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GURU_USER_EMAIL: ${{ secrets.GURU_USER_EMAIL }}
+          GURU_USER_TOKEN: ${{ secrets.GURU_USER_TOKEN }}
