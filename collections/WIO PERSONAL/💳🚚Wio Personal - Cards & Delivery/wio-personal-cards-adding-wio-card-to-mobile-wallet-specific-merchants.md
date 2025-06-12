@@ -176,9 +176,45 @@
 </ul>
 <p class="ghq-card-content__paragraph ghq-is-empty" data-ghq-card-content-type="paragraph" id="2xVB9kxtPgqz">
 </p>
+<p class="ghq-card-content__paragraph" data-ghq-card-content-type="paragraph" id="7aDU56Wu6Cxt">
+ <strong class="ghq-card-content__bold" data-ghq-card-content-type="BOLD">
+  Note to TLs:
+ </strong>
+</p>
+<p class="ghq-card-content__paragraph" data-ghq-card-content-type="paragraph" id="5adrN7inJF2W">
+ Related
+ <span class="ghq-card-content__text-color" data-ghq-card-content-type="TEXT_COLOR" style="color:#2f3ba2">
+  <strong class="ghq-card-content__bold" data-ghq-card-content-type="BOLD">
+   Digital Wallet Limit Restrictions
+  </strong>
+ </span>
+ <span class="ghq-card-content__text-color" data-ghq-card-content-type="TEXT_COLOR" style="color:#ff8a60">
+ </span>
+ decline reason in Paymentology:
+</p>
+<ul class="ghq-card-content__bulleted-list" data-ghq-card-content-type="BULLETED_LIST">
+ <li class="ghq-card-content__bulleted-list-item" data-ghq-card-content-type="BULLETED_LIST_ITEM" id="JzdTnjotX7yZ">
+  <strong class="ghq-card-content__bold" data-ghq-card-content-type="BOLD">
+   Error Code:
+  </strong>
+  2424.
+ </li>
+ <li class="ghq-card-content__bulleted-list-item" data-ghq-card-content-type="BULLETED_LIST_ITEM" id="t3x6eseI7ZkR">
+  <strong class="ghq-card-content__bold" data-ghq-card-content-type="BOLD">
+   Reason:
+  </strong>
+  Customer is restricted.
+  <br/>
+ </li>
+</ul>
+<p class="ghq-card-content__paragraph" data-ghq-card-content-type="paragraph" id="NFjM8FKbCzFw">
+ <span class="ghq-card-content__image-container">
+  <img alt="image.png" class="ghq-card-content__image" data-ghq-card-content-image-filename="image.png" data-ghq-card-content-type="IMAGE" src="/collections/WIO PERSONAL/resources/image.png" style="width:968px" width="968"/>
+ </span>
+</p>
 <p class="ghq-card-content__paragraph" data-ghq-card-content-type="paragraph" id="EyxNRwq7hlVn">
  <strong class="ghq-card-content__bold" data-ghq-card-content-type="BOLD">
-  📖For more information regarding limit restrictions, refer to:
+  For more information regarding card limits  restrictions, refer to:
  </strong>
  <a class="ghq-card-content__link" data-ghq-card-content-type="LINK" href="https://app.getguru.com/card/TEeyqKqc/Universal-Cards-Card-Fraud-Security-Checks" id="fmU6RuUx3wML">
   Universal - Cards: Card Fraud Security Checks
